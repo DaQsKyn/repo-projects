@@ -1,1 +1,1 @@
-# repo-projects
+# school-project
