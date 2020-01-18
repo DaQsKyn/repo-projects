@@ -1,0 +1,19 @@
+Welcome to my E-portfolio on Life in the Information Age.
+In order to obtain maximum results from this E-portfolio, please follow the set of instructions provided:
+
+1. To open the E-portfolio, please open the Index page that is found in this folder. I would suggest that the website should be opened
+   with google chrome to get the full experience.
+
+2. To have the top most experience, please view the E-portfolio in full screen mode on a 1366 by 768 resolution. And screen brightness
+   should be high enough, comfortable for your viewing 
+
+3. The following hardware specifications are required to view this E-portfolio:
+   - 1GB Ram
+   - i-3 processor and above
+   - CD/DVD drive
+   - Mouse
+
+4. The following are suggested by me to enhance the experience
+   - Safari web browser 6.0.2 on MAC and Mozilla firefox 20.0.1 on Windows
+   - Adobe flash player 11 or higher
+   - Adobe reader 10 and above or another equivalent PDF reader
